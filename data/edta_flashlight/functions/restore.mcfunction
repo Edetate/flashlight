@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ soul_torch run setblock ~ ~ ~ air
